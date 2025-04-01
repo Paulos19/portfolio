@@ -5,7 +5,7 @@ import Link from "next/link";
 
 const Footer = () => {
   return (
-    <footer className="w-full py-20 pt-20 pb-10" id="contact">
+    <footer className="w-full pt-20 pb-10" id="contact">
       {/* background grid */}
       <div className="w-full absolute left-0 -bottom-72 min-h-96">
         <img
@@ -24,9 +24,9 @@ const Footer = () => {
           Entre em contato hoje mesmo e vamos discutir como posso ajudar você
           a alcançar seus objetivos.
         </p>
-        <a href="paulohenrique.012araujo@gmail.com">
+         <a href="mailto:paulohenrique.012araujo@gmail.com">
           <MagicButton
-            title="Vamos conversar"
+            title="Envie um Email"
             icon={<FaLocationArrow />}
             position="right"
           />

@@ -1,4 +1,5 @@
 export const navItems = [
+  { name: "Home", link: "#home"},
   { name: "Sobre", link: "#about" },
   { name: "Projetos", link: "#projects" },
   { name: "Testemunhos", link: "#testimonials" },
@@ -99,7 +100,7 @@ export const projects = [
     des: "Um ecommerce incrível para vender tudo o que puder imaginar",
     img: "/p4.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "/ui.apple.com",
+    link: "https://ecommerce-next15-one.vercel.app/",
   },
 ];
 
@@ -208,6 +209,6 @@ export const socialMedia = [
   {
     id: 3,
     img: "/link.svg",
-    href: 'www.linkedin.com/in/paulo-henrique20'
+    href: 'https://www.linkedin.com/in/paulo-henrique20'
   },
 ];
