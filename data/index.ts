@@ -110,30 +110,35 @@ export const testimonials = [
       "Trabalhar com o Henrique foi um prazer absoluto. Seu profissionalismo, pontualidade e dedicação em entregar resultados excepcionais foram evidentes durante todo o projeto. O entusiasmo do Henrique por cada aspecto do desenvolvimento realmente se destaca. Se você busca elevar seu website e fortalecer sua marca, o Henrique é o parceiro ideal.",
     name: "Michael Johnson",
     title: "Diretor da AlphaStream Technologies",
+    image: '/profile.svg'
   },
   {
     quote:
       "A colaboração com o Henrique superou todas as expectativas. Sua capacidade de resposta rápida e atenção aos detalhes foram cruciais para o sucesso do nosso projeto. Recomendo fortemente seus serviços para quem busca qualidade e comprometimento.",
     name: "Carlos Mendes",
     title: "CEO da TechVision Brasil",
+    image: '/men.jpg'
   },
   {
     quote:
       "Henrique demonstrou um profundo conhecimento técnico e criatividade na solução de problemas complexos. Seu trabalho foi fundamental para transformar nossa visão em realidade digital. Um profissional altamente capacitado e dedicado.",
     name: "Ana Souza",
     title: "Gerente de Projetos na InovaWeb",
+    image: '/ana.jpg'
   },
   {
     quote:
       "O diferencial do Henrique está na sua combinação rara de habilidades técnicas e compreensão das necessidades do negócio. Nosso projeto foi entregue antes do prazo e com qualidade superior ao esperado. Parceiro confiável para projetos desafiadores.",
     name: "Roberto Fernandes",
     title: "CTO da Digital Solutions",
+    image: '/fm.svg'
   },
   {
     quote:
       "Como cliente recorrente do Henrique, posso afirmar que sua consistência na entrega de trabalhos de alta qualidade é impressionante. Transformou completamente nossa presença digital com soluções inovadoras e eficientes.",
     name: "Juliana Almeida",
     title: "Diretora de Marketing na WebPrime",
+    image:'/ju.jpg'
   },
 ];
 export const companies = [
